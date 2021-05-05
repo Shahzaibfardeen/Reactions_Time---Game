@@ -1,0 +1,22 @@
+body{
+	font-family: sans-serif;
+	background-color: #56827d;
+}
+
+#box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	display: none;
+	position:relative;
+}
+
+
+
+
+
+
+
+
+
+}
